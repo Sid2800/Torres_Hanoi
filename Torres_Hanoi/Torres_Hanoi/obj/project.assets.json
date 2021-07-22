@@ -688,30 +688,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\megad\\.nuget\\packages\\": {},
+    "C:\\Users\\gcruh\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\megad\\Desktop\\Sid280 Nube\\UCENM\\Estrucctura de Datos\\Proyecto\\Torres_Consola\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi.csproj",
+      "projectUniqueName": "C:\\Users\\gcruh\\Desktop\\GIT\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi.csproj",
       "projectName": "Torres_Hanoi",
-      "projectPath": "C:\\Users\\megad\\Desktop\\Sid280 Nube\\UCENM\\Estrucctura de Datos\\Proyecto\\Torres_Consola\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi.csproj",
-      "packagesPath": "C:\\Users\\megad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\megad\\Desktop\\Sid280 Nube\\UCENM\\Estrucctura de Datos\\Proyecto\\Torres_Consola\\Torres_Hanoi\\Torres_Hanoi\\obj\\",
+      "projectPath": "C:\\Users\\gcruh\\Desktop\\GIT\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi.csproj",
+      "packagesPath": "C:\\Users\\gcruh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gcruh\\Desktop\\GIT\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi\\Torres_Hanoi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\megad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gcruh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

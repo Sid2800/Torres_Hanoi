@@ -9,3 +9,14 @@ C:\Users\megad\Desktop\Sid280 Nube\UCENM\Estrucctura de Datos\Proyecto\Torres_Co
 C:\Users\megad\Desktop\Sid280 Nube\UCENM\Estrucctura de Datos\Proyecto\Torres_Consola\Torres_Hanoi\Torres_Hanoi\bin\Debug\netcoreapp2.1\Torres_Hanoi.pdb
 C:\Users\megad\Desktop\Sid280 Nube\UCENM\Estrucctura de Datos\Proyecto\Torres_Consola\Torres_Hanoi\Torres_Hanoi\obj\Debug\netcoreapp2.1\Torres_Hanoi.dll
 C:\Users\megad\Desktop\Sid280 Nube\UCENM\Estrucctura de Datos\Proyecto\Torres_Consola\Torres_Hanoi\Torres_Hanoi\obj\Debug\netcoreapp2.1\Torres_Hanoi.pdb
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\bin\Debug\netcoreapp2.1\Torres_Hanoi.deps.json
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\bin\Debug\netcoreapp2.1\Torres_Hanoi.runtimeconfig.json
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\bin\Debug\netcoreapp2.1\Torres_Hanoi.runtimeconfig.dev.json
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\bin\Debug\netcoreapp2.1\Torres_Hanoi.dll
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\bin\Debug\netcoreapp2.1\Torres_Hanoi.pdb
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\obj\Debug\netcoreapp2.1\Torres_Hanoi.csprojAssemblyReference.cache
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\obj\Debug\netcoreapp2.1\Torres_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\obj\Debug\netcoreapp2.1\Torres_Hanoi.AssemblyInfoInputs.cache
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\obj\Debug\netcoreapp2.1\Torres_Hanoi.AssemblyInfo.cs
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\obj\Debug\netcoreapp2.1\Torres_Hanoi.dll
+C:\Users\gcruh\Desktop\GIT\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\Torres_Hanoi\obj\Debug\netcoreapp2.1\Torres_Hanoi.pdb
